@@ -1,0 +1,802 @@
+{
+  "error": {
+    "btn": "home"
+  },
+ 
+   "header": {
+     "menu": {
+       "home": "home",
+       "catalog": "catalog",
+       "tissue": "tissue",
+       "3D": "3D models"
+     }
+   },
+   "footer": {
+     "city": "Kiev,",
+     "address": "Kazemira Malevicha, 48",
+     "tel": "+38(066) 972 80 07"
+   },
+   "hero": {
+     "title": {
+      "part1": "children's couture",
+      "part2": "furniture"
+     }
+   },
+   "btn": "Catalog",
+   "about": {
+     "title": "about us",
+     "description": {
+       "part1": "One day all adults were little… They remember that in the childhood the dreams are much brighter than those we have now. You will agree that we all wanted to make some of them come true. Atelier Lilu wants to help your child to have the most incredible fairy-tale dreams. That’s why each our item is a unique world made specially for your child. We are attentive to the details as you are to your children. Each bed has its own particular character and mood. Carefully preserving manufacturing traditions, we know exactly how to make a bed you have been looking for so long time. ",
+       "part2": "More than eight years ago I founded this brand. I am engaged in its development and run the furniture manufacturing. During that time we became the leaders of the Ukrainian premium furniture market and we are also successfully developing in Europe. Welcome to Atelier Lilu’s refined world.",
+       "part3": "",
+       "part4": ""
+     },
+     "signature": "Valentina Vasilieva, the founder"
+   },
+   "brands": {
+     "title": "all brands",
+     "drimai": {
+       "name": "drimai",
+       "text": "basic classic line"
+     },
+     "sleep": {
+       "name": "sleeponnn",
+       "text": "creative casual"
+     },
+     "lilu": {
+       "name": "atelier lilu",
+       "text": "furniture couture"
+     },
+     "bambini": {
+       "name": "Minibambini",
+       "text": "newborn collections"
+     },
+     "btn": "go to site"
+   },
+   "furniture": {
+     "soft": "soft furniture",
+     "body": "body",
+     "textile": "textile",
+     "season19": "Colors",
+     "season20": "Nord"
+   },
+
+   "products": {
+    "namurBed": {
+      "productName": "namur Bed",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "A sophisticated bed of the Namur collection, the frame of which is made of natural wooden materials, will fit your child’s bedroom wonderfully. It has soft curves and a figured silhouette. The headboard and sides are decorated with capitonnage and studs. The bed is equipped with orthopedic floating slats on silicone holders, which gives additional comfort as well as increases the benefit of the anatomical mattress. Two decorative pillows measuring 45x45 cm in the color of bed are included.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "namurLux": {
+      "productName": "namur Lux",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "The shape of Namur Lux bed will give a sense of security to your baby and will become a favorite place in his bedroom. The bed is equipped with orthopedic floating slats on silicone holders, which gives additional comfort and increases the benefit of the anatomical mattress. Two decorative pillows measuring 45x45 cm in the color of bed are included.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "namurSofa": {
+      "productName": "namur Sofa",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Refined piquing head of the sofa, elegant lines of Namur sofa will create an atmosphere that favours nice and fine rest. The sofa suits for grown-up children, nannies or guests. The sofa is completed with orthopedic floating lamellas on silicone holders which provide additional comfort and increase benefit of anatomic mattress. There are two cushions as a unit 45x45 cm in size coloured like the sofa.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "namurBedChair": {
+      "productName": "namur Bed Chair",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "A chair-bed of the Namur collection can be a great addition to the interior of the children's room, especially if there is a need for an extra bed for a nanny or a friend. The frame is made of natural wood materials. A mattress (Muss/Mini) and a removable cover are included. Measures of unfolded chair-bed are 900x1800 cm.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "floransSlim": {
+      "productName": "florans Slim",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "A comfortable and modern bed of the Florans collection, the frame of which is made of natural wooden materials, equipped with sidelong semi-crimps. The bed is equipped with orthopedic floating slats on silicone holders, which gives additional comfort and increases the benefit of the anatomical mattress. Two decorative pillows measuring 45x45 cm in the color of bed are included.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "floransSlimChair": {
+      "productName": "florans Slim Chair",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Your child’s table can be usefully supplemented by a compact and modern chair of the Florans collection. The frame of the chair is made of natural wooden materials, while the curved armrests make it very comfortable. ",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "floransSlimSofa": {
+      "productName": "Florans Slim Sofa",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Modern sofa with curved head and lateral semi-sides is a perfect place for the rest and good sleep as well. Sofa is completed with orthopedic floating lamellas on silicone holders which provide additional comfort and increase benefit of anatomic mattress. There are two cushions as a unit 45x45 cm in size coloured like the sofa.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "pomPon": {
+      "productName": "pom Pon",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "The rounded headboard of the Pom pon bed flows into the sides and is decorated with a contrasting purfle. The frame is made of natural wooden materials, which will provide a comfortable sleep. The bed is equipped with orthopedic floating slats on silicone holders, which gives additional comfort and increases the benefit of the anatomical mattress. Two decorative pillows measuring 45x45 cm in the color of bed are included.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "pomPonChair": {
+      "productName": "pom Pon Chair",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "A chair of the Pom pon collection with roundish headboard is made of natural wooden materials and high-quality soft upholstery. This one will be a successful addition to the interior of your child’s bedroom. It can also be used as a separate piece of furniture in small rooms.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "pomPonDivan": {
+      "productName": "Pom pon divan",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Pom-pon divan with high legs and a round back is decorated with nails around the perimeter and smoothly turns into the base of the seat. The frame is made of natural wooden materials. The ergonomics of the sofa will provide convenience and comfort to your rest. It will complete both modern and classical interior of your room.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "brooklyn": {
+      "productName": "Brooklyn",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "A safe bed model of the Brooklyn collection for the smallest ones will become a great place to relax and sleep. The high sides and the headboard are decorated with a capitonnage. The bed is equipped with orthopedic floating slats on silicone holders, which gives additional comfort and increases the benefit of the anatomical mattress. Two decorative pillows measuring 45x45 cm in the color of bed are included.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "brooklynSofa": {
+      "productName": "brooklyn Sofa",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "The safe model of a sofa of the Brooklyn collection for the smallest ones is a great place to relax and sleep. The high sides and the headboard are decorated with a capitonnage. The bed is equipped with orthopedic floating slats on silicone holders, which gives additional comfort and increases the benefit of the anatomical mattress. Two decorative pillows measuring 45x45 cm in the color of bed are included.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "parisBed": {
+      "productName": "Paris Bed",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "A bed of the Paris collection will impart personality to your child’s bedroom and will be the center of guests’ admiration. The headboard and sides are decorated with handmade diagonal braids, the perimeter is decorated with nails and purfle in the color of the bed. The bed is equipped with orthopedic floating slats on silicone holders, which gives additional comfort and increases the benefit of the anatomical mattress. Two decorative pillows measuring 45x45 cm in the color of bed are included.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "parisChair": {
+      "productName": "paris Chair",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "A high-foot chair of the Paris collection with a rounded back is made of natural wooden materials and high-quality soft upholstery. This one will become a favorite resting place and a successful addition to the interior of your child’s bedroom.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "parisPouf": {
+      "productName": "paris pouf",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Refined, figured and comfortable pouf from Paris collection will provide special nuance to the whole interior of the room. The pouf is decorated with decorative nails. ",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "sidney": {
+      "productName": "sidney",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "A comfortable bed of the Sidney collection fits perfectly into a modern and classic interior. The headboard and sides (armrests) are decorated with finishing nails, emphasizing the bed’s gracefulness and make the interior more elegant. The bed is equipped with orthopedic floating slats on silicone holders, which gives additional comfort and increases the benefit of the anatomical mattress. Two decorative pillows measuring 45x45 cm in the color of bed are included.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "sidneyChair": {
+      "productName": "sidney Chair",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Sidney armchair with low wooden legs will perfectly fit into a modern and classical interior. It will also become a great addition to the furniture from this collection. Curved armrests of the chair provide comfort.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "sidneyDivan": {
+      "productName": "sidney Divan",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Sidney sofa is an example of elegant classical design and of high functionality. It will be suitable to the modern interior as well. Reliable design and seat depth dimension of the sofa will allow its owners to use it daily. Low legs of the sofa are practical decision because it will be easy to clean under it. ",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "sidneySofa": {
+      "productName": "sidney sofa",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "The elegant sofa from the Sydney collection is full-fledged place for sleeping. The head of the sofa and armrests are decorated with decorative nails around the perimeter which favourably set off its elegance and give the interior of the room delicacy. ",
+        "part2": "The sofa is completed with orthopedic floating lamellas on silicone holders that bring additional comfort and increase the benefit of anatomic mattress. There are two scatter cushions as a unit coloured like the sofa (45*45 cm).",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "bizetLux": {
+      "productName": "bizet-lux",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "A romantic bed for the girl’s bedroom with curved bedposts, covered with fabric and small nails. The bed has an exquisite headboard, decorated with finishing nails and a capitonnage on the perimeter.",
+        "part2": "The bed is equipped with orthopedic floating slats with a silicone holder and two orthopedic pillows measuring 45x45 cm.",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "lilibet": {
+      "productName": "lilibet",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "The pompous Lilibet bed of the classic shape will decorate the princess's room.",
+        "part2": "The curved back is decorated with voluminous capitonnage and finishing nails. The top of the headboard is decorated with a wooden crown. The bed can be decorated with Swarovski (on the crown, along the perimeter instead of nails and buttons).",
+        "part3": "The bed is equipped with orthopedic floating slats on silicone holders, which gives additional comfort and increases the benefit of the anatomical mattress. Two decorative pillows measuring 45x45 cm in the color of bed are included.",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "fouette": {
+      "productName": "fouette",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "A modern bed of the Fouette collection has a light airy shape and elegant metal \"heels\" accompanied with a glamorous high headboard that overflows into thin elegant sides, will become the standard of style for its owner. The frame is made of natural wood materials. The bed is equipped with orthopedic floating slats on silicone holders, which gives additional comfort and increases the benefit of the anatomical mattress. Two decorative pillows measuring 45x45 cm in the color of bed are included.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "fouetteSofa": {
+      "productName": "Fouette Sofa",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Refinement, lightness and elegance are those three words which perfectly describe the modern sofa from Fouetté collection. The elegant metal “heels” which are characteristic of the whole of collection indicate individuality of style and design. The sofa is completed with orthopedic floating lamellas on silicone holders which provide additional comfort and increase benefit of anatomic mattress. There are two cushions as a unit 45x45 cm in size coloured like the sofa.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "savoya": {
+      "productName": "savoya",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "A classic-shaped bed with a round headboard of the Savoya collection has a special charm and style. The outer side and the headboard are decorated with handmade stitching. And the inner edging of the bed is decorated with a chenille cord. Bed post and frame are made of natural wooden materials.",
+        "part2": "This bed is suitable for embroidering the initials of its owner at the headboard of the bed (optional). The bed is equipped with orthopedic floating slats on silicone holders, which gives additional comfort and increases the benefit of the anatomical mattress. Two decorative pillows measuring 45x45 cm in the color of bed are included.",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "savoyaSoft": {
+      "productName": "savoya Soft",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "A luxurious classic-style bed of the Savoya collection with soft and rounded headboard will fit in to your interior perfectly. The headboard is decorated with a “marshmallow” capitonnage.",
+        "part2": "The bed is equipped with orthopedic floating slats on silicone holders, which gives additional comfort and increases the benefit of the anatomical mattress. Two decorative pillows measuring 45x45 cm in the color of bed are included.",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "elephant": {
+      "productName": "elephant",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "The modern bed of the Elephant collection with movable sides is made of natural wooden materials and high-quality soft upholstery. The bed is equipped with orthopedic floating slats on silicone holders, which gives additional comfort and increases the benefit of the anatomical mattress. Two decorative pillows measuring 45x45 cm in the color of bed are included.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "komod": {
+      "productName": "komod",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Laconic and modern dresser. The facade and 3D panel are made of Egger higher density fibre board. The frame is made of Egger laminate (environmental friendliness E0), equipped with Blum high-tech accessories (Austria), which allows to silently open and close three drawers. The dresser is painted with Austrian Adler matt water-based environmental friendly color. It has metal legs.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "komodSteps": {
+      "productName": "komod Steps",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Modern dresser Komod Steps with 3D facade is made of Egger higher density fibre board. The frame is made of Egger laminate (environmental friendliness E0), equipped with Blum high-tech accessories (Austria), which allows to silently open and close three drawers. The dresser is painted with Austrian Adler matt water-based environmental friendly color. It has metal legs.",
+        "part2": "The innovative technology of 3D facades brings an unprecedented novelty to the interior and makes your furniture exclusive.",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "komodCruls": {
+      "productName": "komod Curls",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "A dresser Komod Cruls with a 3D facade is made of Egger higher density fibre board. The frame is made of Egger laminate (environmental friendliness E0), equipped with Blum high-tech accessories (Austria), which allows to silently open and close three drawers. The dresser is painted with Austrian Adler matt water-based environmental friendly color. It has metal legs. ",
+        "part2": "The absence of massive handles will make your interior more fuss-free.",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "perlaKomod": {
+      "productName": "perla Komod",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Perla commode has 5 drawers and is made of Egger higher density fibre board, it fits perfectly into the interior of your room, it is pretty convenient as well as takes up little space. ",
+        "part2": "The frame is made of Egger laminate (environmental friendliness E0), it is equipped with Blum high-tech accessories (Austria), which allows to silently open and close the drawers. Handles are ceramic. The commode is painted with Austrian Adler matt water-based environmental friendly color. The base has a classic, stylish design.",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "perla6Komod": {
+      "productName": "Perla 6 komod",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Perla6komod commode has 6 drawers and is made of Egger higher density fibre board, it fits perfectly into the interior of your room, it is pretty convenient as well as takes up little space.",
+        "part2": "The frame is made of Egger laminate (environmental friendliness E0), it is equipped with Blum high-tech accessories (Austria), which allows to silently open and close the drawers. Handles are ceramic. The commode is painted with Austrian Adler matt water-based environmental friendly color. The base has a classic, stylish design.",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "perla6": {
+      "productName": "Perla-6",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Perla6 commode has 6 drawers and is made of Egger higher density fibre board, it fits perfectly into the interior of your room, it is pretty convenient as well as takes up little space.",
+        "part2": "The frame is made of Egger laminate (environmental friendliness E0), it is equipped with Blum high-tech accessories (Austria), which allows to silently open and close the drawers. Handles are ceramic. The commode is painted with Austrian Adler matt water-based environmental friendly color. The base has a classic, stylish design.",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "smartBlock": {
+      "productName": "smart Block",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Smart block is an example of modern design. The facade is made of Egger higher density fibre board. A feature of this model is a block of GTV sockets for charging smartphones, tablets, etc., as well as an additional locker. The dresser is painted with Austrian Adler matt water-based environmental friendly color. It is stylish and practical at the same time.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "table": {
+      "productName": "table",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "A little table for the children's room is made of Egger higher density fibre board. It will become an indispensable tool for your child. There are two drawers and a mirror built into the top panel of the table. It allows combining a workplace and a makeup zone, which is necessary for every girl. As for ЗD panel, it will make the interior exclusive. The table has metal legs. It is equipped with Blum high-tech accessories (Austria).",
+        "part2": "The dresser is painted with Austrian Adler matt water-based environmental friendly color.",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "perlaTable": {
+      "productName": "perla table",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Perla table with high legs for the children's room is made of Egger higher density fibre board. It will become an indispensable tool for your child. The table has drawers for storing things. Handles are ceramic. It equipped with Blum high-tech accessories (Austria) and is painted with Austrian Adler matt water-based environmental friendly color.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "tumba": {
+      "productName": "tumba",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Tumba Cruls bedside cabinet has 2 drawers. It is equipped with an additional back 3D panel made of Egger higher density fibre board. The frame is made of Egger laminate (environmental friendliness E0), equipped with Blum high-tech accessories (Austria), which allows to silently open and close two drawers. The bedside cabinet is painted ith Austrian Adler matt water-based environmental friendly color. It has metal legs.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "tumbaCruls": {
+      "productName": "tumba Cruls",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Tumba Cruls bedside cabinet with 2 drawers and a 3D facade. The facade is made of Egger higher density fibre board. The frame is made of Egger laminate (environmental friendliness E0), equipped with Blum high-tech accessories (Austria), which allows to silently open and close two drawers. The bedside cabinet is painted ith Austrian Adler matt water-based environmental friendly color. It has metal legs.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "perlaTumba": {
+      "productName": "perlaTumba",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Perla6komod commode has 6 drawers and is made of Egger higher density fibre board, it fits perfectly into the interior of your room, it is pretty convenient as well as takes up little space.",
+        "part2": "The frame is made of Egger laminate (environmental friendliness E0), it is equipped with Blum high-tech accessories (Austria), which allows to silently open and close the drawers. Handles are ceramic. The commode is painted with Austrian Adler matt water-based environmental friendly color. The base has a classic, stylish design.",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "wardrobeCruls": {
+      "productName": "wardrobe Curls",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "The modern wardrobe with a 3D facade Wardrobe Curls has drawers and a metal pipe for hangers. It simultaneously combines functionality, style and simplicity. You can place a lot of things on the shelves because they are durable and can withstand heavy loads. It has an additional open section with shelves.",
+        "part2": "The 3D facade is made of Egger higher density fibre board. The frame is made of Egger laminate (environmental friendliness E0), equipped with Blum high-tech accessories (Austria), which allows to silently open and close two drawers. The bedside cabinet is painted ith Austrian Adler matt water-based environmental friendly color.",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "wardrobeSteps": {
+      "productName": "wardrobe Steps",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "The modern wardrobe with a 3D facade Wardrobe Steps has drawers and a metal pipe for hangers. It simultaneously combines functionality, style and simplicity. You can place a lot of things on the shelves because they are durable and can withstand heavy loads. It has an additional open section with shelves.",
+        "part2": "The 3D facade is made of Egger higher density fibre board. The frame is made of Egger laminate (environmental friendliness E0), equipped with Blum high-tech accessories (Austria), which allows to silently open and close two drawers. The bedside cabinet is painted ith Austrian Adler matt water-based environmental friendly color.",
+        "part3": "It will become a harmonious part of your individual interior.",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "wardrobeStrips": {
+      "productName": "wardrobe Strips",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "The modern wardrobe with a 3D facade Wardrobe Steps has drawers and a metal pipe for hangers. It simultaneously combines functionality, style and simplicity. You can place a lot of things on the shelves because they are durable and can withstand heavy loads. It has an additional open section with shelves.",
+        "part2": "The 3D facade is made of Egger higher density fibre board. The frame is made of Egger laminate (environmental friendliness E0), equipped with Blum high-tech accessories (Austria), which allows to silently open and close two drawers. The bedside cabinet is painted ith Austrian Adler matt water-based environmental friendly color.",
+        "part3": "It will become a harmonious part of your individual interior.",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "wardrobeWaves": {
+      "productName": "wardrobe Waves",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "The modern wardrobe with a 3D facade Wardrobe Waves has drawers and a metal pipe for hangers. It simultaneously combines functionality, style and simplicity. You can place a lot of things on the shelves because they are durable and can withstand heavy loads. It has an additional open section with shelves.",
+        "part2": "The 3D facade is made of Egger higher density fibre board. The frame is made of Egger laminate (environmental friendliness E0), equipped with Blum high-tech accessories (Austria), which allows to silently open and close two drawers. The bedside cabinet is painted ith Austrian Adler matt water-based environmental friendly color.",
+        "part3": "It will become a harmonious part of your individual interior.",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "perla030003": {
+      "productName": "perla0.3+0.0+0.3",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Perla0.3+0.0+0.3 wardrobe consists of three sections: open shelves and drawers. Perla0.3+0.0+0.3 can accommodate not only clothes, but also spare blankets and necessary accessories.",
+        "part2": "The facade is made of Egger higher density fibre board, the frame is made of Egger laminate (environmental friendliness E0). The wardrobe is equipped with Blum high-tech accessories (Austria), which allows to silently open and close drawers. Perla0.3+0.0+0.3 is painted with Austrian Adler matt water-based environmental friendly color. The base and the cornice have a classic, stylish design, giving the wardrobe a look of completeness. Handles are ceramic.",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "perla0303": {
+      "productName": "perla0.3+0.3",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Perla0.3+0.3  wardrobe consists of two sections: open shelves and drawers. . Perla0.3+0.3 can accommodate not only clothes, but also spare blankets and necessary accessories.",
+        "part2": "The facade is made of Egger higher density fibre board, the frame is made of Egger laminate (environmental friendliness E0). The wardrobe is equipped with Blum high-tech accessories (Austria), which allows to silently open and close drawers. . Perla0.3+0.3 is painted with Austrian Adler matt water-based environmental friendly color. The base and the cornice have a classic, stylish design, giving the wardrobe a look of completeness. Handles are ceramic.",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "perla030303": {
+      "productName": "Perla0.3+0.3+0.3",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Perla0.3+0.3+0.3 wardrobe consists of three sections: open shelves and drawers. Perla0.3+0.3+0.3 creates the most comfortable conditions for its owners.",
+        "part2": "The facade is made of Egger higher density fibre board, the frame is made of Egger laminate (environmental friendliness E0). The wardrobe is equipped with Blum high-tech accessories (Austria), which allows to silently open and close drawers. Perla0.3+0.3+0.3 is painted with Austrian Adler matt water-based environmental friendly color. The base and the cornice have a classic, stylish design, giving the wardrobe a look of completeness. Handles are ceramic.",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "perla100010": {
+      "productName": "Perla1.0+0.0+1.0",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Perla1.0+0.0+1.0 wardrobe consists of three sections: two closed and one with open shelves. It is a practical and functional element of the interior. There are several shelves and a pipe for storing clothes in closed sections.",
+        "part2": "The facade is made of Egger higher density fibre board, the frame is made of Egger laminate (environmental friendliness E0). The wardrobe is equipped with Blum high-tech accessories (Austria).It is painted with Austrian Adler matt water-based environmental friendly color. The base and the cornice have a classic, stylish design, giving the wardrobe a look of completeness. Handles are ceramic.",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "perla1003": {
+      "productName": "Perla1.0+0.3",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Perla1.0+0.3 wardrobe consists of two sections that harmoniously combine open shelves, drawers and a closed section. In the closed section there are several shelves and a hanger.",
+        "part2": "Your room will look sophisticated and attractive with the wardrobe.",
+        "part3": "The facade is made of Egger higher density fibre board, the frame is made of Egger laminate (environmental friendliness E0). The wardrobe is equipped with Blum high-tech accessories (Austria).It is painted with Austrian Adler matt water-based environmental friendly color. The base and the cornice have a classic, stylish design, giving the wardrobe a look of completeness. Handles are ceramic.",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "perla100310": {
+      "productName": "Perla1.0+0.3+1.0",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Perla1.0+0.3+1.0 wardrobe consists of three sections that harmoniously combine open shelves, drawers and two closed section. There are several shelves and a hanger in the closed section. Perla1.0+0.3+1.0  can accommodate both clothes and spare blankets and necessary accessories.",
+        "part2": "The facade is made of Egger higher density fibre board, the frame is made of Egger laminate (environmental friendliness E0). The wardrobe is equipped with Blum high-tech accessories (Austria).It is painted with Austrian Adler matt water-based environmental friendly color. The base and the cornice have a classic, stylish design, giving the wardrobe a look of completeness. Handles are ceramic.",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "perla1010": {
+      "productName": "Perla1.0+1.0",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Perla1.0+1.0 wardrobe consists of two closed sections and is a practical and functional element of the interior. There are several shelves and a hanger in the closed section.",
+        "part2": "The facade is made of Egger higher density fibre board, the frame is made of Egger laminate (environmental friendliness E0). The wardrobe is equipped with Blum high-tech accessories (Austria).It is painted with Austrian Adler matt water-based environmental friendly color. The base and the cornice have a classic, stylish design, giving the wardrobe a look of completeness. Handles are ceramic.",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "perla101010": {
+      "productName": "Perla1.0+1.0+1.0",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Perla1.0+1.0+1.0 wardrobe consists of three closed sections and is a practical and functional element of the interior. There are several shelves and a hanger in the closed section.",
+        "part2": "The facade is made of Egger higher density fibre board, the frame is made of Egger laminate (environmental friendliness E0). The wardrobe is equipped with Blum high-tech accessories (Austria).It is painted with Austrian Adler matt water-based environmental friendly color. The base and the cornice have a classic, stylish design, giving the wardrobe a look of completeness. Handles are ceramic.",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "perla1212": {
+      "productName": "Perla1.2+1.2",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Perla1.2+1.2 wardrobe consists of two closed sections with shelves and 4 drawers and is a practical and functional element of the interior. There are several shelves and a hanger in closed sections. ",
+        "part2": "The facade is made of Egger higher density fibre board, the frame is made of Egger laminate (environmental friendliness E0). The wardrobe is equipped with Blum high-tech accessories (Austria).It is painted with Austrian Adler matt water-based environmental friendly color. The base and the cornice have a classic, stylish design, giving the wardrobe a look of completeness. Handles are ceramic.",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "perla121212": {
+      "productName": "Perla1.2+1.2+1.2",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Perla1.2+1.2+1.2  wardrobe consists of three closed sections with shelves, a hanger and drawers. It is a practical and functional element of the interior.",
+        "part2": "The facade is made of Egger higher density fibre board, the frame is made of Egger laminate (environmental friendliness E0). The wardrobe is equipped with Blum high-tech accessories (Austria).It is painted with Austrian Adler matt water-based environmental friendly color. The base and the cornice have a classic, stylish design, giving the wardrobe a look of completeness. Handles are ceramic.",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    },
+    "deepCover": {
+      "productName": "Deep cover",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Deep bed sheet will become a good supplement to a classical interior. It has deep pleats arranged in chessboard order. Top can be made of velour, straw cloth or silk. Back side is made of 100% Italian Camillatex cotton. Filler is a fine hypoallergenic polyester batting.",
+        "part2": "Sizes:",
+        "part3": "S – 1350*1900 mm,",
+        "part4": "M – 1800*2200 mm,",
+        "part5": "L – 2200*2400 mm,",
+        "part6": "XL – 2400*2600 mm."
+      }
+    },
+    "diamondCover": {
+      "productName": "Diamond cover",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Diamond bed sheet is sewed across in diamond patterns (20*20 cm). It will be a good supplement to classical interior. Top can be made of velour, straw cloth or silk. Back side is made of 100% Italian Camillatex cotton. Filler is a fine hypoallergenic polyester batting.",
+        "part2": "Sizes:",
+        "part3": "S – 1350*1900 mm,",
+        "part4": "M – 1800*2200 mm,",
+        "part5": "L – 2200*2400 mm,",
+        "part6": "XL – 2400*2600 mm."
+      }
+    },
+    "linenBedding": {
+      "productName": "Linen bedding",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Linen bedding made of 100% Italian Camillatex linen fabric creates an atmosphere of cosiness disposing to the recreation and relaxing environment. ",
+        "part2": "Bed set include: ",
+        "part3": "two pillowcases (400*600 mm),",
+        "part4": "a blanket cover (1200*1800 mm),",
+        "part5": "a fitted sheet (1100*1700*160 mm).",
+        "part6": ""
+      }
+    },
+    "milletCover": {
+      "productName": "Millet cover",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Millet bed sheet with an interesting chess pattern will complete both the modern and classical interior. The fasteners are finely checkerboard-arranged. The top can be made of velour, straw cloth or silk. Back side is made 100% Italian Camillatex cotton fabric. Filler is fine hypoallergenic polyester batting.",
+        "part2": "Sizes:",
+        "part3": "S – 1350*1900 mm,",
+        "part4": "M – 1800*2200 mm,",
+        "part5": "L – 2200*2400 mm,",
+        "part6": "XL – 2400*2600 mm."
+      }
+    },
+    "percaleBedLinens": {
+      "productName": "Percale bed linens",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Percale bed linen made of Italian Camillatex fabric is an excellent choice for a comfortable sleep. Percale is an extremely fine cotton fabric that has a high density.",
+        "part2": "Bed set includes:",
+        "part3": "two pillowcases (400*600 mm),",
+        "part4": "a blanket cover (1200*1800 mm),",
+        "part5": "a fitted sheet (1100*1700*160 mm).",
+        "part6": ""
+      }
+    },
+    "snowCover": {
+      "productName": "Snow cover",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Snow bed sheet made in contemporary style. It is different in that the fasteners create a pattern of snowflakes. The top can be made of velour, straw cloth or silk. Back side is made of 100% Italian Camillatex cotton fabric. Filler is fine hypoallergenic polyester batting. ",
+        "part2": "Sizes:",
+        "part3": "S – 1350*1900 mm,",
+        "part4": "M – 1800*2200 mm,",
+        "part5": "L – 2200*2400 mm,",
+        "part6": "XL – 2400*2600 mm."
+      }
+    },
+    "zigZagCover": {
+      "productName": "Zig-zag cover",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "Zig-zag bed sheet will be a good supplement to a modern interior. It is sewed across in zig-zag lines. Top can be made of velour, straw cloth or silk. Back side is made of 100% Italian Camillatex cotton. Filler is a fine hypoallergenic polyester batting. The sheet will bring cosiness and warmth to your children’s room.",
+        "part2": "Sizes:",
+        "part3": "S - 1350*1900 мм",
+        "part4": "M -1800*2200 мм",
+        "part5": "L - 2200*2400 мм",
+        "part6": "XL -2400*2600 мм"
+      }
+    },
+    "laura": {
+      "productName": "Laura bed",
+      "titleCarousel": "",
+      "descriptionCarousel": {
+        "part1": "The scroll-shaped head of the bed and high elongated sides in classical form provide refinement to the bed from Laura collection. The bed will be suitable for both girls and boys. It is completed with orthopedic floating lamellas on silicone holders which provide additional comfort and increase benefit of anatomic mattress. There are two cushions as a unit 45x45 cm in size coloured like the sofa.",
+        "part2": "",
+        "part3": "",
+        "part4": "",
+        "part5": "",
+        "part6": ""
+      }
+    }
+  },
+   
+   "product": {
+     "tissue": "mood board",
+     "sizes": "sizes",
+     "btn": "find out the price",
+     "name": "Name",
+     "number": "Phone number",
+     "textarea": "Note",
+     "text": "Please fill out the form, our manager will contact you shortly and answer all your questions"
+   },
+   "tissues": {
+     "solidWood": "solid wood",
+     "softWood": "soft wood",
+     "roughCloth": "rough cloth",
+     "softCloth": "soft cloth"
+   }
+ }
