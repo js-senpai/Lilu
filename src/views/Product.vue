@@ -66,11 +66,15 @@
         v-model="contact"
         :width="$vuetify.breakpoint.xs || $vuetify.breakpoint.sm ? '100%' : '38%'"
       >
-        <div class=" mt-5 contact-close d-flex justify-center align-center d-md-none" @click="contact = !contact">&#10006;</div>
         <div class="d-flex flex-column justify-center align-md-start align-center contact-block">
-          <span class="text-uppercase product-title font-weight-bold ls-3">{{
-            $t(`products.${selectedProduct.translateKey}.productName`)
-          }}</span>
+          <header class="contact-block__header">
+            <div class="contact-close d-flex justify-center align-center d-md-none contact-block__close" @click="contact = !contact">
+              &#10006;
+            </div>
+            <div class="w-100 text-uppercase product-title font-weight-bold ls-3">
+              {{ $t(`products.${selectedProduct.translateKey}.productName`) }}
+            </div>
+          </header>
           <div class="mt-10">
             <v-form v-model="valid">
               <v-text-field
@@ -145,9 +149,9 @@ export default {
       note: '',
       rulesName: [(v) => /^[a-zA-Zа-яА-ЯёЁєЄіІїЇ'][a-zA-Z-а-яА-ЯёЁєЄіІїЇ' ]+[a-zA-Zа-яА-ЯёЁ']?$/.test(v) || 'Введите ваше имя'],
       number: '',
-      rulesNumber: [(v) => /^[0-9]+$/.test(v) || 'Введите ваш номер'],
+      rulesNumber: [(v) => /^(\s*)?(\+)?([- _():=+]?\d[- _():=+]?){10,14}(\s*)?$/.test(v) || 'Введите ваш номер'],
       email: '',
-      rulesEmail: [(v) => /^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9]+(\.[a-z_-]+)*\.[a-z]{2,3}$/.test(v) || 'Введите валидный email'],
+      rulesEmail: [(v) => /^([a-z0-9_-]+\.)*[a-z0-9_-]+\.?@[a-z0-9]+(\.[a-z_-]+)*\.[a-z]{2,3}$/.test(v) || 'Введите валидный email'],
       message: '',
       tissueImage: '',
       tissueColor: '',
@@ -221,7 +225,6 @@ export default {
 }
 
 .product-title {
-  float: left;
   font-size: 1.38rem;
   height: 30px;
 }
@@ -370,6 +373,16 @@ input[type='number'] {
 }
 
 @media screen and (max-width: 620px) {
+  .contact-block__header {
+    margin-top: 90%;
+    width: 100%;
+    text-align: center;
+    position: relative;
+  }
+  .contact-block__close {
+    left: 0;
+    margin-left: 0 !important;
+  }
   .product {
     padding: 0 20px;
   }
@@ -412,5 +425,8 @@ input[type='number'] {
   .product-btn-block {
     width: 100%;
   }
+}
+.v-navigation-drawer__content {
+  height: auto !important;
 }
 </style>
